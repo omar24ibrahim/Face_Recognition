@@ -67,19 +67,35 @@ The dataset contains images from 40 individuals, each of them providing 10 image
 
 
 ## Graphs
- 
-Fig. 06: Accuracy for α = 0.8 and 5-5 Data Split
- 
-Fig. 07: Accuracy for α = 0.85 and 5-5 Data Split
- 
-Fig. 08: Accuracy for α = 0.9 and 5-5 Data Split
- 
-Fig. 09: Accuracy for α = 0.95 and 5-5 Data Split
- 
-Fig. 10: Accuracy for α = 0.8 and 7-3 Data Split
- 
-Fig. 11: Accuracy for α = 0.85 and 7-3 Data Split
- 
-Fig. 12: Accuracy for α = 0.9 and 7-3 Data Split
- 
-Fig. 13: Accuracy for α = 0.95 and 7-3 Data Split
+
+![plot](https://github.com/omar24ibrahim/Face_Recognition/blob/main/Picture(Alpha%200.8%2C%205-5).png)
+
+Fig. 01: Accuracy for α = 0.8 and 5-5 Data Split
+
+![plot](https://github.com/omar24ibrahim/Face_Recognition/blob/main/Picture(Alpha%200.85%2C%205-5).png)
+
+Fig. 02: Accuracy for α = 0.85 and 5-5 Data Split
+
+![plot](https://github.com/omar24ibrahim/Face_Recognition/blob/main/Picture(Alpha%200.9%2C%205-5).png)
+
+Fig. 03: Accuracy for α = 0.9 and 5-5 Data Split
+
+![plot](https://github.com/omar24ibrahim/Face_Recognition/blob/main/Picture(Alpha%200.95%2C%205-5).png)
+
+Fig. 04: Accuracy for α = 0.95 and 5-5 Data Split
+
+![plot](https://github.com/omar24ibrahim/Face_Recognition/blob/main/Picture(Alpha%200.8%2C%207-3).png)
+
+Fig. 05: Accuracy for α = 0.8 and 7-3 Data Split
+
+![plot](https://github.com/omar24ibrahim/Face_Recognition/blob/main/Picture(Alpha%200.85%2C%207-3).png)
+
+Fig. 06: Accuracy for α = 0.85 and 7-3 Data Split
+
+![plot](https://github.com/omar24ibrahim/Face_Recognition/blob/main/Picture(Alpha%200.9%2C%207-3).png)
+
+Fig. 07: Accuracy for α = 0.9 and 7-3 Data Split
+
+![plot](https://github.com/omar24ibrahim/Face_Recognition/blob/main/Picture(Alpha%200.95%2C%207-3).png)
+
+Fig. 08: Accuracy for α = 0.95 and 7-3 Data Split
